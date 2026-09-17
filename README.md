@@ -9,7 +9,7 @@ that follows it, built one step at a time.
 
 ## Status
 
-- [x] Step 1 — Ingestion (this commit)
+- [x] Step 1 — Ingestion 
 - [ ] Step 2 — Multimodal indexing
 - [ ] Step 3 — Retrieval + reranking
 - [ ] Step 4 — Grounded generation
